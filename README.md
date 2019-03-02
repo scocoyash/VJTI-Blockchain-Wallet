@@ -12,6 +12,6 @@ Official Repository of VJTI-Blockchain Wallet Android app.
 # Developed By:
 
 <ul>
-  <li> #### Yash Jain - yashjain864@gmail.com  </li>
-  <li> #### Siddhesh Rane - siddheshrane24@gmail.com </li>
+  <li> Yash Jain - yashjain864@gmail.com  </li>
+  <li> Siddhesh Rane - siddheshrane24@gmail.com </li>
 </ul>
